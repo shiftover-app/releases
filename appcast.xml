@@ -10,7 +10,7 @@
             <sparkle:version>537</sparkle:version>
             <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/shiftover-app/releases/releases/download/v0.4.0/Shiftover-0.4.0.dmg" length="17525604" type="application/octet-stream" sparkle:edSignature="DNZcYCV0thOk1s4aU4uBDcpRXbfAcf3xZmd/RZjQMgy561A46S537gyUdKBzbCGElwDxdGUJz1aQEeEBJenEBw==" />
+            <enclosure url="https://github.com/shiftover-app/releases/releases/download/v0.4.0/Shiftover-0.4.0.dmg" length="17525604" type="application/octet-stream" sparkle:edSignature="Hh8qm7euNpcKpeK6oX34SFYtvRHrr2H3txJ5AkWo7jXyt83lGfRBi9mbJPwUQ3dzioQ/7Zy62o0C9MPQ9rNqBA==" />
         </item>
         <item>
             <title>Version 0.3.0</title>

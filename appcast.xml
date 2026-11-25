@@ -5,6 +5,14 @@
         <description>Most recent Shiftover updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.6.31</title>
+            <pubDate>Wed, 25 Nov 2026 08:58:16 +0000</pubDate>
+            <sparkle:version>971</sparkle:version>
+            <sparkle:shortVersionString>0.6.31</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/shiftover-app/releases/releases/download/v0.6.31/Shiftover-0.6.31.dmg" length="25827630" type="application/octet-stream" sparkle:edSignature="j7MwVqmsNmqPPpATrb9Yc6tF+vW5pbig2gUPXDO2X0wfHho/YJ3F2j7p9e6m7slcwWVCrxOgiSH1lq3n9ovZAg==" />
+        </item>
+        <item>
             <title>Version 0.6.30</title>
             <pubDate>Sat, 21 Nov 2026 23:52:54 +0000</pubDate>
             <sparkle:version>967</sparkle:version>
